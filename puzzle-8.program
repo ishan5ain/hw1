@@ -1,0 +1,18 @@
+var counter = 0;
+
+function move(direction, steps){
+  while(counter<steps){
+    direction
+    counter = counter + 1
+  }
+  
+  right
+  right
+}
+
+move(down, 8)
+move(up, 7)
+move(down, 7)
+move(up, 7)
+move(down, 7)
+
