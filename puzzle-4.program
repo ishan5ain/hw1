@@ -17,4 +17,5 @@ currentColor = getColor
 down
 setColor(currentColor)
 
-right right
+right
+right

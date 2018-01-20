@@ -1,6 +1,6 @@
 
 function twoTurns{
-  while(getColor()!="red"){
+  while(getColor()!= "red"){
   down
   }
 
