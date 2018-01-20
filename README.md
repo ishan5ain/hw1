@@ -1,3 +1,3 @@
 # hw1
-## homework: week 1
-### puzzles yo
+class homework: week 1
+puzzles yo
