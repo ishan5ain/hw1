@@ -1,4 +1,4 @@
-var counter = 0;
+var counter = 0
 
 function move(direction, steps){
   while(counter < steps){

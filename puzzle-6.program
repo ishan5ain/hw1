@@ -7,22 +7,22 @@ if(getColor() == 'red'){
   up
 
   if(getColor() == 'red'){
-  left
+    left
   } else {
-  right
+    right
   }
   up
 
   } else {
-  down
-  down
-  down
+      down
+      down
+      down
 
-  if(getColor() == 'red'){
-  left
-  } else {
-  right
-  }
+      if(getColor() == 'red'){
+        left
+      } else {
+        right
+      }
 
-  down
+      down
   }
